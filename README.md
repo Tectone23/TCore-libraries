@@ -5,11 +5,11 @@ TCore is the central platform we are developing for. This is a “virtual platfo
 ## TCore Libraries
 Currently there are TCore libs in for 2 languages (js and dart), with a kotlin/java lib in the works
 
-1. Dart-TCore
-Dart-TCore is a library developed and maintained by Tectone23 (us, the the developers of TCore)
+### Dart-TCore
+Dart-TCore is a library developed and maintained by Tectone23 (us, the the developers of TCore) for flutter. [link](https://github.com/TecTone23-Mobile/Dart-TCore)
 
-2. TCoreJS (or tcore.js)
-TCoreJS is a js/ts library for TCore which is also developed by Tectone23.
+### TCoreJS (or tcore.js)
+TCoreJS is a js/ts library for TCore which is also developed by Tectone23. [link](https://github.com/TecTone23-Mobile/TcoreJS)
 
 ## Documentation
 
